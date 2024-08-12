@@ -25,9 +25,12 @@ cd E2_chatbot_IA_certif
 pip install -r requirements.txt
 
 3. Créez un fichier `.env` à la racine du projet et ajoutez vos informations d'identification Azure :
-AZURE_OPENAI_ENDPOINT=votre_endpoint_azure
-AZURE_OPENAI_KEY=votre_cle_api_azure
-AZURE_OPENAI_DEPLOYMENT=nom_de_votre_deploiement
+
+AZURE_OPENAI_ENDPOINT=votre_endpoint_azure 
+
+AZURE_OPENAI_KEY=votre_cle_api_azure  
+
+AZURE_OPENAI_DEPLOYMENT=nom_de_votre_deploiement  
 
 ## Utilisation
 
